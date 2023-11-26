@@ -1,3 +1,7 @@
+# Internship Assignment 1 by Debangshu Kantha
+### This app was created for an internship task of The Product Company.
+### It is deployed at https://assignment-1-debangshu-kantha.netlify.app/
+### Thankyou.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
